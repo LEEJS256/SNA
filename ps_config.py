@@ -14,7 +14,7 @@ ip=socket.gethostbyname(socket.gethostname())
 
 # print({cpu},{memory},{disk},{ip})
 
-DB_host='192.168.0.8'
+DB_host='192.168.0.2'
 DB_user='SNA'
 DB_password='smart123'
 DB_db='SNA'
